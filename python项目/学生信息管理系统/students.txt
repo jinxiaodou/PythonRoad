@@ -1,0 +1,6 @@
+{'id': 102, 'name': '阿二', 'english': 54, 'chinese': 77, 'math': 87, 'total': 218}
+{'id': 101, 'name': '阿大', 'english': 66, 'chinese': 87, 'math': 54, 'total': 207}
+{'id': 103, 'name': '阿三', 'english': 64, 'chinese': 87, 'math': 33, 'total': 184}
+{'id': 108, 'name': '桑彪', 'english': 43, 'chinese': 77, 'math': 57, 'total': 177}
+{'id': 190, 'name': '神祗', 'english': 24, 'chinese': 675, 'math': 76, 'total': 775}
+{'id': 111, 'name': '光棍', 'english': 35, 'chinese': 7, 'math': 57, 'total': 99}
